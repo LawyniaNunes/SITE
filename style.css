@@ -1,0 +1,32 @@
+/*Reset básico*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*corpo*/
+body {
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+line-height: 1.6;
+color: rgb(104, 4, 4);
+}
+
+.navbar-brand {
+   color: rgb(63, 4, 4);
+}
+
+section, h1, footer {
+  background-color: rgba(255, 255, 255, 0.685);
+  padding: 1rem;
+  border-radius: 8px;
+  margin: 1rem;
+}
+
+
+body {
+  background-image: url(/quadro-decorativo-direito-advogado-balanca-moldura-branca-6-juizes.webp);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
